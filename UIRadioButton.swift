@@ -31,6 +31,7 @@ class UIRadioButton: UIButton {
     
     @IBInspectable public var innerFillColor: UIColor = UIColor(red: 119/255, green: 117/255, blue: 246/255, alpha: 1.0) {
         didSet {
+            removeInnerCircle()
             self.layoutIfNeeded()
         }
     }
