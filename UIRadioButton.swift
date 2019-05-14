@@ -2,7 +2,7 @@
 //  RadioButton.swift
 //  RadioButton
 //
-//  Created by Vindeshwar Rai on 07/05/19.
+//  Created by Vivek Singh Mehta on 07/05/19.
 //  Copyright © 2019 Vivek Singh Mehta. All rights reserved.
 //
 
